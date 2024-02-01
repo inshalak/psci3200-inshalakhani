@@ -1,0 +1,39 @@
+---
+title: "Workshop" 
+author: "Insha Lakhani"
+date: last-modified
+institute: "University of Pennsylvania"
+toc: true
+editor: source
+format:
+ html:
+    self-contained: true
+---
+
+## Formatting
+ We created the first section
+
+
+### Subsection on Math Mode
+Now LateX!
+$$
+\widehat{ATE} = \overline{Y}
+$$
+
+### Creating Lists
+
+- Bullet one
+- Bullet two 
+    + Bullet 2.5
+
+## Code Chunks
+
+```{python}
+import numpy as np
+import pandas as pd
+
+print("Hi!")
+
+```
+
+
